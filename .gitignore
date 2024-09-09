@@ -1,1 +1,5 @@
 .venv
+instance/data.db
+__pycache__
+*.pyc
+.DS_STORE

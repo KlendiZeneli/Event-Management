@@ -8,3 +8,4 @@ passlib~=1.7.4
 flask-migrate~=4.0.7
 alembic~=1.13.2
 marshmallow~=3.22.0
+requests
