@@ -10,3 +10,4 @@ alembic~=1.13.2
 marshmallow~=3.22.0
 requests
 gunicorn
+psycopg2
